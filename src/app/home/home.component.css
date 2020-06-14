@@ -1,0 +1,45 @@
+.navbg{
+    background-color: #3f4257;
+    padding: 16px;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+}
+
+.gridcard{
+    background-color: #fcfeff;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    /* background-image: url(../../assets/cloud.png); */
+}
+
+.example-form{
+    width:100%;
+}
+.gridcard h1{
+    font-weight: 300;
+    font-size: 58px;
+}
+
+.imgdiv{
+    /* margin: -13px; */
+    opacity: 0.2;
+}
+
+.imgdiv{
+
+    width: 50px;
+    height: 50px;
+
+    
+   
+}
+
+.btn-add{
+    padding: 5px 20px;
+    background-color: #bfe6e6;
+    color: #000;
+    border-radius: 2px;
+}
+
+
+.color-70{
+    color:#707070;
+}

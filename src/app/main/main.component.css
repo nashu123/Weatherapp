@@ -1,0 +1,71 @@
+.bg-img{
+    background-image: url(../../assets/weather-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img1{
+    /* transform: rotate(61deg); */
+    left: 50%;
+    top: 30%;
+
+}
+
+.img2{
+    top: 20%;
+    left: 15%;
+}
+
+.img3{
+    top: 30%;
+    right:5%;
+}
+.img6{
+    left:10%;
+    top:80%;
+}
+
+.img7{
+  top:45%;
+  left:40%;
+}
+
+.img8{
+    bottom:15%;
+  right:14%;
+  }
+.img4{
+   bottom:20%;
+    left: 35%;
+}
+
+.img5{
+    top: 50%;
+    right:25%;
+}
+
+.move{
+    animation: rotate 5s .1s infinite linear;
+}
+
+ @keyframes rotate{
+    0% {
+        -webkit-transform: rotateZ(0) translate3d(0,10%,0) rotateZ(0);
+        -moz-transform: rotateZ(0) translate3d(0,10%,0) rotateZ(0);
+        -ms-transform: rotateZ(0) translate3d(0,10%,0) rotateZ(0);
+        transform: rotateZ(0) translate3d(0,10%,0) rotateZ(0);
+    }
+    100% {
+        -webkit-transform: rotateZ(360deg) translate3d(0,10%,0) rotateZ(-360deg);
+        -moz-transform: rotateZ(360deg) translate3d(0,10%,0) rotateZ(-360deg);
+        -ms-transform: rotateZ(360deg) translate3d(0,10%,0) rotateZ(-360deg);
+        transform: rotateZ(360deg) translate3d(0,10%,0) rotateZ(-360deg);
+    }
+} 
+
+.btn-start{
+    background-color: antiquewhite;
+    color:#000;
+    padding: 7px 38px;
+
+}
