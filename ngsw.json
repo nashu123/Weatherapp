@@ -1,0 +1,104 @@
+{
+  "configVersion": 1,
+  "timestamp": 1592152629741,
+  "index": "https://nashu123.github.io/Weatherapp/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://nashu123.github.io/Weatherapp/favicon.ico",
+        "https://nashu123.github.io/Weatherapp/index.html",
+        "https://nashu123.github.io/Weatherapp/main-es2015.4eddaea71f8d5b2372e3.js",
+        "https://nashu123.github.io/Weatherapp/main-es5.140a5ce2bbfd552ee59f.js",
+        "https://nashu123.github.io/Weatherapp/polyfills-es2015.27661dfa98f6332c27dc.js",
+        "https://nashu123.github.io/Weatherapp/polyfills-es5.7f43b971448d2fb49202.js",
+        "https://nashu123.github.io/Weatherapp/runtime-es2015.858f8dd898b75fe86926.js",
+        "https://nashu123.github.io/Weatherapp/runtime-es5.741402d1d47331ce975c.js",
+        "https://nashu123.github.io/Weatherapp/scripts.233bae0aa01741057ecf.js",
+        "https://nashu123.github.io/Weatherapp/styles.35e532bf1307ab366629.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://nashu123.github.io/Weatherapp/assets/bolt.png",
+        "https://nashu123.github.io/Weatherapp/assets/cloud.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-128x128.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-144x144.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-152x152.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-192x192.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-384x384.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-512x512.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-72x72.png",
+        "https://nashu123.github.io/Weatherapp/assets/icons/icon-96x96.png",
+        "https://nashu123.github.io/Weatherapp/assets/moon.png",
+        "https://nashu123.github.io/Weatherapp/assets/rain.png",
+        "https://nashu123.github.io/Weatherapp/assets/rain12.png",
+        "https://nashu123.github.io/Weatherapp/assets/sun (1).png",
+        "https://nashu123.github.io/Weatherapp/assets/sun (2).png",
+        "https://nashu123.github.io/Weatherapp/assets/sun.png",
+        "https://nashu123.github.io/Weatherapp/assets/triangle.png",
+        "https://nashu123.github.io/Weatherapp/assets/water.png",
+        "https://nashu123.github.io/Weatherapp/assets/weather-bg.jpg",
+        "https://nashu123.github.io/Weatherapp/weather-bg.f6fc522a25caf2f3a3e5.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://nashu123.github.io/Weatherapp/assets/bolt.png": "f6f076039188be68a91f588d273ed58b00577123",
+    "https://nashu123.github.io/Weatherapp/assets/cloud.png": "63ae2b1d958db2f480e797132076206f4238f5e4",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://nashu123.github.io/Weatherapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://nashu123.github.io/Weatherapp/assets/moon.png": "bcd10dbb11c27e7742aca7641210669d32517a02",
+    "https://nashu123.github.io/Weatherapp/assets/rain.png": "ea0f2e65b57d74b41e80649a6165ed41b6ec1e6b",
+    "https://nashu123.github.io/Weatherapp/assets/rain12.png": "c99e6e9b98611f75ce528e7135b6bfdb1808e57c",
+    "https://nashu123.github.io/Weatherapp/assets/sun (1).png": "366141cad5c16a44b9a7d3cf62fd9eff33fc4536",
+    "https://nashu123.github.io/Weatherapp/assets/sun (2).png": "2b0a9745045117ec7032d7c6a07a39c5e8872f70",
+    "https://nashu123.github.io/Weatherapp/assets/sun.png": "63ffc18b06fe2360b48379d3360e5114031f218d",
+    "https://nashu123.github.io/Weatherapp/assets/triangle.png": "5cf96deacddf3f9d0b74851164fe3303a7dd002e",
+    "https://nashu123.github.io/Weatherapp/assets/water.png": "d7987fc629653b828e6589e2a37a26cf767fe95a",
+    "https://nashu123.github.io/Weatherapp/assets/weather-bg.jpg": "3d8e0518f4065859d85424c82a78874e64434ad6",
+    "https://nashu123.github.io/Weatherapp/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://nashu123.github.io/Weatherapp/index.html": "5daf026470b5040274ea049c74da2d6db71467c5",
+    "https://nashu123.github.io/Weatherapp/main-es2015.4eddaea71f8d5b2372e3.js": "7772625449adbe1876dc1a5f87acdcac34ec76b4",
+    "https://nashu123.github.io/Weatherapp/main-es5.140a5ce2bbfd552ee59f.js": "42785c55ea9d7c8a8418df7781131d1633827f42",
+    "https://nashu123.github.io/Weatherapp/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "https://nashu123.github.io/Weatherapp/polyfills-es5.7f43b971448d2fb49202.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
+    "https://nashu123.github.io/Weatherapp/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://nashu123.github.io/Weatherapp/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://nashu123.github.io/Weatherapp/scripts.233bae0aa01741057ecf.js": "dd81377423745695e4ebdcee49c2663f72bc4d25",
+    "https://nashu123.github.io/Weatherapp/styles.35e532bf1307ab366629.css": "7cfb08a39aa5837024627394ab26ae6b784f60c8",
+    "https://nashu123.github.io/Weatherapp/weather-bg.f6fc522a25caf2f3a3e5.jpg": "3d8e0518f4065859d85424c82a78874e64434ad6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
